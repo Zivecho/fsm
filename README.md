@@ -89,3 +89,6 @@ int main() {
 ### Changelog
 - v1.0.0 (2015/11/29): Code revisited to use fourcc integers (much faster); clean ups suggested by Chang Qian
 - v0.0.0 (2014/02/15): Initial version
+
+csdn
+https://blog.csdn.net/u011208918/article/details/108977887?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-2&spm=1001.2101.3001.4242
