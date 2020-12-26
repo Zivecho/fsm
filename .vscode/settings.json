@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/usr/share/sumo/tools",
+        "/home/nov/carla-0.9.9/Dist/CARLA_Shipping_0.9.9-69-gd26f6995-dirty/LinuxNoEditor/PythonAPI/carla/dist/carla-0.9.9-py2.7-linux-x86_64.egg",
+        "",
+        "/home/nov/scenario_runner",
+        "/home/nov/zzz/src/driver/simulators/carla/carla_bridge",
+        "/home/nov/zzz/src/driver/simulators/carla/carla_challenge/scenario_runner",
+        "/home/nov/zzz/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages",
+        ""
+    ]
+}
